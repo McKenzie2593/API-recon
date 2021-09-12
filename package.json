@@ -2,10 +2,6 @@
   "name": "node",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "start": "node fileName.js",
-    "start:dev": "nodemon fileName.js"
-},
   "dependencies": {
     "bcrypt-nodejs": "^0.0.3",
     "body-parser": "^1.19.0",
